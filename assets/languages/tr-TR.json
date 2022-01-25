@@ -1,0 +1,15 @@
+{
+    "main": {
+        "appTitle": "Sözlük"
+    },
+    "initial":{
+        "title":"Sözlük",
+        "subTitle":"Hızlı bir şekilde istediğiniz herhangi bir kelimeyi arayın",
+        "hintInput":"Kelime girin"
+    },
+    "detail":{
+        "defination":"Tanım: {}",
+        "sentence":"Cümle: {}"
+    },
+    "tryAgain":"Try Again"
+}

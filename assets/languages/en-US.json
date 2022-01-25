@@ -1,0 +1,15 @@
+{
+    "main": {
+        "appTitle": "Dictionary"
+    },
+    "initial":{
+        "title":"Dictionary",
+        "subTitle":"Search any word you want quickly",
+        "hintInput":"Enter word"
+    },
+    "detail":{
+        "defination":"Defination: ",
+        "sentence":"Sentence: "
+    },
+    "tryAgain":"Try Again"
+}
